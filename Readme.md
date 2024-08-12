@@ -1,7 +1,7 @@
 # Личный проект «{{projectTitle}}» 
 
 * Студент: [Наталья Майорова](https://up.htmlacademy.ru/htmlcss/39/user/2461257)
-
+* Сайт: [Проект Седона 2](https://mayorovanatasha.github.io/sedona-adaptive/)
 ---
 
 **Обратите внимание, что папка с вашими исходными файлами — `source/`.**
