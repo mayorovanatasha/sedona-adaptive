@@ -1,6 +1,8 @@
-@import 'common/mixins';
-@import 'common/global';
+@import 'common/mixins.scss';
+@import 'common/global.scss';
+@import 'common/variables.scss';
 @import 'blocks/footer.scss';
 @import 'blocks/gallery.scss';
 @import 'blocks/page-header.scss';
 @import 'blocks/page-main.scss';
+@import 'blocks/page.scss';

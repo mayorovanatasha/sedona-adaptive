@@ -1,0 +1,10 @@
+.page {
+	overflow-x: hidden;
+	font-size: 14px;
+	line-height: 26px;
+	font-family: 'PT Sans', 'Arial', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: antialiased;
+	text-transform: uppercase;
+	background-color: $color-back;
+}
