@@ -1,4 +1,15 @@
-body {
-  background: gray;
+@font-face {
+  font-weight: 400;
+  font-family: "PT Sans";
+  font-style: normal;
+  src: url("/fonts/ptsans.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-weight: 700;
+  font-family: "PT Sans";
+  font-style: normal;
+  src: url("/fonts/ptsansbold.woff2") format("woff2");
+  font-display: swap;
 }
 /*# sourceMappingURL=style.css.map */

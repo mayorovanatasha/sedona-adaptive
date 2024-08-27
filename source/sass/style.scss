@@ -1,2 +1,6 @@
-// Начните писать стили здесь
-body { background: gray; }
+@import 'common/mixins';
+@import 'common/global';
+@import 'blocks/footer.scss';
+@import 'blocks/gallery.scss';
+@import 'blocks/page-header.scss';
+@import 'blocks/page-main.scss';
