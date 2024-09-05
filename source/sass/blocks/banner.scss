@@ -1,0 +1,18 @@
+.headline {
+  font-family: $page-font;
+  line-height: 26px;
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 6px;
+}
+
+.headline__image--index {
+  min-height: 389px;
+  margin-bottom: 40px;
+  background-size: cover;
+
+  img {
+    width: 280px;
+    padding-top: 90px;
+  }
+}

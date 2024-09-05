@@ -1,10 +1,19 @@
 .page {
-	overflow-x: hidden;
-	font-size: 14px;
-	line-height: 26px;
-	font-family: 'PT Sans', 'Arial', sans-serif;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: antialiased;
-	text-transform: uppercase;
-	background-color: $color-back;
+  height: 100%;
+  background-color: $color-back;
+  font-family: "PT Sans Narrow", "Arial", sans-serif;
+  font-size: 18px;
+  line-height: 26px;
+  text-transform: uppercase;
+}
+
+.page__body {
+  min-height: 100%;
+  margin: 0 auto;
+  color: #333333;
+  background-color: $color-white;
+
+  @include desktop {
+    box-shadow: 0 5px 15px rgba(0, 1, 1, 0.2);
+  }
 }
