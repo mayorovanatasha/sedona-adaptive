@@ -1,7 +1,6 @@
 @include font-face('PT Sans', 400, normal, 'ptsans');
 @include font-face('PT Sans', 700, normal, 'ptsansbold');
 
-
 html {
   box-sizing: border-box;
 }
@@ -10,7 +9,7 @@ body {
   min-width: 320px;
   margin: 0;
   padding: 0;
-  background-color: red;
+  border: 1px solid red;
 }
 
 *,
